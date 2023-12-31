@@ -1,2 +1,0 @@
-password = "<PASSWORD>"
-username = "hello"
